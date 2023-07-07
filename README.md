@@ -1,2 +1,2 @@
 # myuxportfolio
-creating a one page site to summarize my ux design coursework
+creating a simple website to summarize my ux design coursework
